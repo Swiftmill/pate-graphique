@@ -1,0 +1,60 @@
+[
+  {
+    "username": "SirPixel",
+    "displayName": "Sir Pixel",
+    "avatar": "/avatars/sir-pixel.svg",
+    "banner": "/banners/knight-energy.svg",
+    "roleId": "knight",
+    "biography": "Chevalier shader, protecteur des FPS sacrés.",
+    "quote": "La lumière bleue guide mon GPU.",
+    "activity": "Fortnite",
+    "badges": ["feur", "chvl"],
+    "discordId": "123456789",
+    "status": "online",
+    "legend": true,
+    "activityScore": 982
+  },
+  {
+    "username": "DameRigatoni",
+    "displayName": "Dame Rigatoni",
+    "avatar": "/avatars/dame-rigatoni.svg",
+    "banner": "/banners/civil-gold.svg",
+    "roleId": "civil",
+    "biography": "Chef des Pâtes Graphiques, distribue memes et parmesan.",
+    "quote": "Ajoute une sauce dorée à ta créativité !",
+    "activity": "Roblox",
+    "badges": ["chef-pasta", "meme-lord"],
+    "discordId": "987654321",
+    "status": "idle",
+    "legend": true,
+    "activityScore": 865
+  },
+  {
+    "username": "Lazeroni",
+    "displayName": "Lazeroni",
+    "avatar": "/avatars/lazeroni.svg",
+    "banner": "/banners/knight-energy.svg",
+    "roleId": "knight",
+    "biography": "Arcane master des shaders RTX.",
+    "quote": "Un rayon bleu pour chaque bug.",
+    "activity": "Valorant",
+    "badges": ["7dso"],
+    "discordId": "5656565656",
+    "status": "dnd",
+    "activityScore": 780
+  },
+  {
+    "username": "Pastalion",
+    "displayName": "Pastalion",
+    "avatar": "/avatars/pastalion.svg",
+    "banner": "/banners/civil-gold.svg",
+    "roleId": "civil",
+    "biography": "Maître des farfalle humoristiques.",
+    "quote": "Si c'est pas drôle, c'est pas al dente.",
+    "activity": "Minecraft",
+    "badges": ["meme-lord"],
+    "discordId": "45454545",
+    "status": "online",
+    "activityScore": 540
+  }
+]

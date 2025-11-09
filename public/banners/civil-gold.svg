@@ -1,0 +1,14 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="civilBanner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffdd95" />
+      <stop offset="50%" stop-color="#f2c14e" />
+      <stop offset="100%" stop-color="#c08a24" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#civilBanner)" />
+  <g stroke="#fff2d1" stroke-width="4" stroke-linecap="round" opacity="0.35">
+    <path d="M0 320c120-90 240-40 360-100s240-150 360-30 240 120 360 60 240-120 360-40" fill="none" />
+    <path d="M-40 200c120-40 240 80 360 40s240-160 360-60 240 160 360 100 240-80 360 0" fill="none" opacity="0.6" />
+  </g>
+</svg>

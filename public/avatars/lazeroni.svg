@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lazer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4361ee" />
+      <stop offset="100%" stop-color="#7209b7" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="32" fill="url(#lazer)" />
+  <g fill="#fff">
+    <path d="M60 60h80l-12 48H72z" opacity="0.8" />
+    <circle cx="100" cy="80" r="20" />
+    <rect x="70" y="130" width="60" height="30" rx="12" fill="#3c7dff" />
+  </g>
+</svg>
