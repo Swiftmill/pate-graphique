@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  background-color: #05070f;
+}
+
+body {
+  @apply bg-[#05070f] text-white font-sans overflow-x-hidden;
+}
+
+a {
+  @apply text-civil-glow hover:text-civil-aura transition-colors;
+}
+
+.glow-border {
+  position: relative;
+}
+
+.glow-border::after {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+  background: linear-gradient(120deg, rgba(60,125,255,0.8), rgba(242,193,78,0.8));
+  filter: blur(12px);
+  opacity: 0.6;
+  z-index: -1;
+  transition: opacity 0.4s ease;
+}
+
+.glow-border:hover::after {
+  opacity: 1;
+}
+
+.mode-sacree body {
+  background: radial-gradient(circle at top, rgba(255, 239, 189, 0.9), rgba(102, 78, 0, 0.9));
+}

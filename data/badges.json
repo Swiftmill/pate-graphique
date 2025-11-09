@@ -1,0 +1,7 @@
+[
+  { "id": "feur", "label": "FEUR", "description": "Réponse ultime des chevaliers", "color": "#4cc9f0" },
+  { "id": "7dso", "label": "7DSO", "description": "Guilde secrète des stratèges", "color": "#ff6d00" },
+  { "id": "chvl", "label": "CHVL", "description": "Lignée noble des chevaliers", "color": "#4361ee" },
+  { "id": "chef-pasta", "label": "Chef Pasta", "description": "Chef cuistot des memes dorés", "color": "#f9c74f" },
+  { "id": "meme-lord", "label": "Meme Lord", "description": "Réacteur à humour illimité", "color": "#f72585" }
+]

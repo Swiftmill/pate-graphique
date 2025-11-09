@@ -1,0 +1,14 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="knightBanner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2b6b" />
+      <stop offset="50%" stop-color="#3c7dff" />
+      <stop offset="100%" stop-color="#0b1026" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#knightBanner)" />
+  <g stroke="#5cd4ff" stroke-width="4" stroke-linecap="round" opacity="0.35">
+    <path d="M0 320c120-160 240-80 360-120s240-80 360 40 240-40 360-80 240 0 360 80" fill="none" />
+    <path d="M-40 200c120-120 240 40 360 0s240-120 360 0 240 120 360 80 240-160 360-40" fill="none" opacity="0.6" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "knight",
+    "name": "Chevalier Graphique",
+    "slug": "chevaliers-graphique",
+    "theme": "knight",
+    "description": "Gardien du GPU sacré, enveloppé d'une aura bleue et d'énergie électrique."
+  },
+  {
+    "id": "civil",
+    "name": "Civil Pâtes Graphiques",
+    "slug": "civiles-pates-graphiques",
+    "theme": "civil",
+    "description": "Maître des blagues al-dente et des reflets dorés, alimente le royaume avec chaleur."
+  }
+]
